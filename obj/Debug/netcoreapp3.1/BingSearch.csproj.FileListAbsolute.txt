@@ -1,0 +1,15 @@
+C:\Users\Personal\Documents\Visual Studio 2019\Projects\ASP\EPBook\BingSearch\bin\Debug\netcoreapp3.1\BingSearch.exe
+C:\Users\Personal\Documents\Visual Studio 2019\Projects\ASP\EPBook\BingSearch\obj\Debug\netcoreapp3.1\BingSearch.csprojAssemblyReference.cache
+C:\Users\Personal\Documents\Visual Studio 2019\Projects\ASP\EPBook\BingSearch\obj\Debug\netcoreapp3.1\BingSearch.AssemblyInfoInputs.cache
+C:\Users\Personal\Documents\Visual Studio 2019\Projects\ASP\EPBook\BingSearch\obj\Debug\netcoreapp3.1\BingSearch.AssemblyInfo.cs
+C:\Users\Personal\Documents\Visual Studio 2019\Projects\ASP\EPBook\BingSearch\bin\Debug\netcoreapp3.1\BingSearch.deps.json
+C:\Users\Personal\Documents\Visual Studio 2019\Projects\ASP\EPBook\BingSearch\bin\Debug\netcoreapp3.1\BingSearch.runtimeconfig.json
+C:\Users\Personal\Documents\Visual Studio 2019\Projects\ASP\EPBook\BingSearch\bin\Debug\netcoreapp3.1\BingSearch.runtimeconfig.dev.json
+C:\Users\Personal\Documents\Visual Studio 2019\Projects\ASP\EPBook\BingSearch\bin\Debug\netcoreapp3.1\BingSearch.dll
+C:\Users\Personal\Documents\Visual Studio 2019\Projects\ASP\EPBook\BingSearch\bin\Debug\netcoreapp3.1\BingSearch.pdb
+C:\Users\Personal\Documents\Visual Studio 2019\Projects\ASP\EPBook\BingSearch\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Personal\Documents\Visual Studio 2019\Projects\ASP\EPBook\BingSearch\obj\Debug\netcoreapp3.1\BingSearch.csproj.CoreCompileInputs.cache
+C:\Users\Personal\Documents\Visual Studio 2019\Projects\ASP\EPBook\BingSearch\obj\Debug\netcoreapp3.1\BingSearch.csproj.CopyComplete
+C:\Users\Personal\Documents\Visual Studio 2019\Projects\ASP\EPBook\BingSearch\obj\Debug\netcoreapp3.1\BingSearch.dll
+C:\Users\Personal\Documents\Visual Studio 2019\Projects\ASP\EPBook\BingSearch\obj\Debug\netcoreapp3.1\BingSearch.pdb
+C:\Users\Personal\Documents\Visual Studio 2019\Projects\ASP\EPBook\BingSearch\obj\Debug\netcoreapp3.1\BingSearch.genruntimeconfig.cache

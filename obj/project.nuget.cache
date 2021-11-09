@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z0rFgXHcgs9R+Azaa6nmV1qLKseAM/PpZjO1ri2po8Op23WKDD/tioEhv3+dBOAWuIbxu445vMkaCuvu+wbYig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Personal\\Documents\\Visual Studio 2019\\Projects\\ASP\\EPBook\\BingSearch\\BingSearch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Personal\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
